@@ -9,7 +9,7 @@ analyse and what the output will be.
 File list
 ---------
 + template.pl
-+ readme.pl
++ readme.md
 + .gitignore
 
 Requirements
